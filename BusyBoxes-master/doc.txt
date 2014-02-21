@@ -1,0 +1,12 @@
+3 state Busy Boxes Razor documentation
+--------------------------------------
+
+To control cursor, follow instruction on screen. To change pixel and toggle between states, press enter.
+
+
+To test Busy Boxes Razor with Detusch Gate
+------------------------------------------
+
+Fill adjacent cells with the Red configuration. Place a blue cell in a l-shape position to both cells. Now Run.
+This will cause phase shifts.
+
